@@ -59,11 +59,9 @@ Run queries using LangChain + LLMs
 
 Generate financial insights
 
-🖼️ Demo
+## Demo
 
-Click below to view the demo:
-
-[Watch Demo](https://drive.google.com/file/d/1WF5E3KngY5r9L1BoBccc8g_SVp3wOWOK/view?usp=sharing)
+▶️ (https://drive.google.com/file/d/1WF5E3KngY5r9L1BoBccc8g_SVp3wOWOK/view?usp=sharing) 
 
 📊 Example Insights
 
